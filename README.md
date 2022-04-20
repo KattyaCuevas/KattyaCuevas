@@ -18,10 +18,12 @@ Here are some ideas to get you started:
 
 ### Languages
 
+<div style="display: flex; gap: 4px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="26px" alt="Ruby" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" width="26px" alt="rails" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//rails/rails-plain.svg" width="26px" alt="rails" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" alt="React" />
+</div>
 
 
 ### 📕 Latest Blog Posts
