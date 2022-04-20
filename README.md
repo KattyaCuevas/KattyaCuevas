@@ -31,6 +31,17 @@ Here are some ideas to get you started:
 
 ### Social Media
 
+[![website](./img/globe-light.svg)](https://kattya.dev#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://kattya.dev#gh-dark-mode-only)
+
+[![twitter](./img/twitter-light.svg)](https://twitter.com/KattyaCuevas#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/KattyaCuevas#gh-dark-mode-only)
+
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/kattyacuevas#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/kattyacuevas#gh-dark-mode-only)
+
+[![dev.to](./img/dev-light.svg)](https://dev.to/kattyacuevas#gh-light-mode-only)
+[![dev.to](./img/dev-dark.svg)](https://dev.to/kattyacuevas#gh-dark-mode-only)
 
 
 ### 📕 Latest Blog Posts
