@@ -38,4 +38,6 @@ Here are some ideas to get you started:
 
 ➡️ [more blog posts...](https://kattya.dev)
 
+### GitHub Stats
+
 ![KattyaCuevas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattyacuevas&show_icons=true&theme=gotham&count_private=true)
