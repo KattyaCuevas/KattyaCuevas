@@ -15,3 +15,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: kattya.cuevas@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I had a duck as a pet.
+
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://kattya.dev)
