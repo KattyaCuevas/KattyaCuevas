@@ -10,14 +10,14 @@ Here are some ideas to get you started:
 
 
 
-- 👩‍👦 Salva's mom
+- 👩‍👦 I'm Salva's mom
 - 🗣️ [RubyPeru](https://twitter.com/RubyPeru) & [techtalks_pe](https://twitter.com/techtalks_pe) organizer
 - 👩‍🔧 [WomenTechmakers](https://twitter.com/WomenTechmakers) ambassador & [Auth0Ambassador](https://twitter.com/Auth0Ambassador)
 - 🔭 I’m currently working at [CloudForecast.io](https://www.cloudforecast.io/)
 - 👯 I’m looking to collaborate on Rails projects
 - 💬 Ask me about Ruby, Rails, React, Authentication
 - 📫 How to reach me: kattya.cuevas@gmail.com
-- 😄 Pronouns: she/her
+- 😄 My pronouns are `she/her/ella`
 - ⚡ Fun fact: I had a duck as a pet.
 
 ### Languages
