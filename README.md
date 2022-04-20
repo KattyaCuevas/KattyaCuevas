@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 <!-- - 🤔 I’m looking for help with ... -->
 
 
-- 🔭 I’m currently working at CloudForecast.io
+- 🔭 I’m currently working at [CloudForecast.io](https://www.cloudforecast.io/)
 - 👯 I’m looking to collaborate on Rails projects
 - 💬 Ask me about Ruby, Rails, React, Authentication
 - 📫 How to reach me: kattya.cuevas@gmail.com
