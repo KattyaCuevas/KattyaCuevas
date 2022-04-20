@@ -37,3 +37,5 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kattya.dev)
+
+![KattyaCuevas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattyacuevas&show_icons=true&theme=gotham&count_private=true)
