@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 ### Social Media
 
+<div style="display: flex; gap: 4px;">
+
 [![website](./img/globe-light.svg)](https://kattya.dev#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://kattya.dev#gh-dark-mode-only)
 
@@ -42,6 +44,8 @@ Here are some ideas to get you started:
 
 [![dev.to](./img/dev-light.svg)](https://dev.to/kattyacuevas#gh-light-mode-only)
 [![dev.to](./img/dev-dark.svg)](https://dev.to/kattyacuevas#gh-dark-mode-only)
+
+</div>
 
 
 ### 📕 Latest Blog Posts
