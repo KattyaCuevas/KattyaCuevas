@@ -45,4 +45,5 @@ Here are some ideas to get you started:
 ### GitHub Stats
 
 ![KattyaCuevas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattyacuevas&show_icons=true&theme=gotham&count_private=true#gh-dark-mode-only)
+![KattyaCuevas's GitHub stats](https://github-readme-stats.vercel.app/api?username=kattyacuevas&show_icons=true&theme=vue&count_private=true#gh-light-mode-only)
 ![KattyaCuevas's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kattyacuevas&hide=java&layout=compact&theme=gotham)
