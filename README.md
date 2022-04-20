@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ### Languages
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="26px" alt="Ruby" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original.svg" width="26px" alt="rails" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" alt="javascript" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26px" alt="React" />
 
 
