@@ -20,7 +20,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Optimizing Active Record queries](https://dev.to/kattyacuevas/optimizing-active-record-queries-4i84)
+- [Optimización de queries en Rails](https://dev.to/kattyacuevas/optimizacion-de-queries-en-rails-5hkj)
+- [Cómo me afecto la “experiencia universitaria”](https://dev.to/kattyacuevas/como-me-afecto-la-experiencia-universitaria-19f3)
+- [Authentication with Auth0 on Rails](https://dev.to/kattyacuevas/authentication-with-auth0-on-rails-3ped)
+- [Autenticación con Auth0 en Rails](https://dev.to/kattyacuevas/autenticacion-con-auth0-en-rails-29na)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://kattya.dev)
