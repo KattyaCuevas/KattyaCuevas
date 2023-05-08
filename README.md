@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 👩‍👦 I'm Salva's mom
 - 🗣️ [RubyPeru](https://twitter.com/RubyPeru) & [techtalks_pe](https://twitter.com/techtalks_pe) organizer
 - 👩‍🔧 [WomenTechmakers](https://twitter.com/WomenTechmakers) ambassador & [Auth0Ambassador](https://twitter.com/Auth0Ambassador)
-- 🔭 I’m currently working at [Shopify](https://www.shopify.com/careers)
+- 🔭 I’m looking for new opportunities
 - 👯 I’m looking to collaborate on Rails projects
 - 💬 Ask me about Ruby, Rails, React, Authentication
 - 📫 How to reach me: kattya.cuevas@gmail.com
